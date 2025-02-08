@@ -67,7 +67,3 @@ Revisa la consola del navegador (F12 > Consola) para ver posibles errores en el 
 Verifica que el archivo app.js esté correctamente enlazado en index.html.
 
 Revisa el código JavaScript y asegúrate de que la función actualizarLista() se ejecuta correctamente.
-
-Autor
-
-Desarrollado por [Tu Nombre].
