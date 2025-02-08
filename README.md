@@ -28,7 +28,7 @@ Instalación
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone [https://github.com/tu-usuario/amigo-secreto.git](https://github.com/rudylr73/challenge-amigo-secreto/)
 
 Abrir el proyecto:
 
